@@ -1,5 +1,4 @@
 streamlit
-scenedetect[opencv]
 dashscope
 opencv-python-headless
-numpy
+scenedetect
